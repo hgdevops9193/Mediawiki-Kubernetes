@@ -10,7 +10,7 @@ https://hub.docker.com/r/himanshu9193/mediawiki
 
 ```
 
-## Step:2 Setup Kubernetes cluster on Azure/AWS/GCP or on local system
+## Step:2 Setup Kubernetes cluster
 
 I have used minikube tool to run a Kubernetes cluster in a virtual machine on my personal computer. Refer below documentation for Kubernetes for setting up the same.
 ```
